@@ -15,19 +15,4 @@ void main() {
     }
 
 
-    /*  TEST 1 SALDO INSUFFICIENTE
-    try{
-        C.Preleva(3001d);
-    }catch(SaldoInsufficienteException e){
-        println(e.getMessage());
-    }*/
-
-    /*  TEST 2 IMPORTO NON VALIDO
-    try{
-        C.Preleva(-1d);
-    }catch(SaldoInsufficienteException e) {
-        println(e.getMessage());
-    }*/
-
-
 }
